@@ -1,8 +1,4 @@
 # create-repository
 
-bu satır change-readme için yapılan değişiklikleri içerir.
-bu satır change-readme için yapılan değişiklikleri içerir.
-bu satır change-readme için yapılan değişiklikleri içerir.
-
-
-
+Bu satırda change-readme branch için yapılmış değişiklikler yer almaktadır.
+Bu satırda change-readme branch için yapılmış değişiklikler yer almaktadır.
